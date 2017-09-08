@@ -6,9 +6,9 @@ layout: post
  +categories: my Blog
   ---
   
- +# Welcome to My First Bolg
- +## My name is wipaporn khamguna
- +### I am a student at Ubon ratchathani Rajchabhat University
+ # Welcome to My First Bolg
+ ## My name is wipaporn khamguna
+ ### I am a student at Ubon ratchathani Rajchabhat University
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
