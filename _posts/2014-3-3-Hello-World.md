@@ -1,9 +1,9 @@
 ---
 layout: post
- -title: You're up and running!
- +title: Welcome to deawdey
- +date:  2017-09-09  10:19:00 +00700
- +categories: my Blog
+ title: You're up and running!
+ title: Welcome to deawdey
+ date:  2017-09-09  10:19:00 +00700
+ categories: my Blog
   ---
   
  # Welcome to My First Bolg
