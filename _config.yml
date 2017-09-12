@@ -10,38 +10,6 @@ description: Web Developer from Somewhere
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/15589846_1295789927154076_6492719512786400003_n.jpg?oh=0b8f28206b82774d7ba28e09ff86568e&oe=5A4B518D
 
----
-layout: post
-title: ขายผลไม้
-date: 2017-09-09  10:19:00 +00700
-categories: my Blog
----
-# สมาร์ทโฟน
-## iPhon
-### sumsung
-#### vivo
-##### Hw
-###### Dtac
-[I'm an inline-style link](https://www.fruitfits.com/)
-#### วิธีการสั่งชื้อ
-1. สมัครสมาชิก
-2. ใส่ที่อยู่
-3. ชำระเงิน
-4. รอรับผลไม้
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-[logo]: 
-alert(s);
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-![Note8](https://www.fruitfits.com/wp-content/uploads/2017/06/delivery-855x450.jpg)
 
 #
 # Flags below are optional
