@@ -3,15 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiratikorn
+name: atthaphon
+
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-9/15589846_1295789927154076_6492719512786400003_n.jpg?oh=0b8f28206b82774d7ba28e09ff86568e&oe=5A4B518D
-# สวัสดีชาวโลก
-
-## ฉันมาแล้ว
+avatar: https://scontent.fbkk14-1.fna.fbcdn.net/v/t1.0-9/19642471_255170764980164_4779913546778653526_n.jpg?oh=3e1f3127d47f72a70f4003864c96112a&oe=5A596AED
 #
 # Flags below are optional
 #
@@ -85,4 +83,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
