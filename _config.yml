@@ -1,34 +1,14 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @Deawdey
- Sign out
- Watch 0
-  Star 0
-  Fork 16,142 kiaarakorn/http://deawdey123.github.io/
-forked from barryclark/jekyll-now
- Code  Pull requests 0  Projects 0  Wiki Insights 
-Branch: master Find file Copy pathkiaarakorn.github.io/_config.yml
-2ee674f  4 days ago
- @Deawdey  Deawdey Update _config.yml
-8 contributors @barryclark  @Deawdey @eringrand @rnicholus @frenchie16 @javiercejudo @fleeting @bkiers
-RawBlameHistory     
-86 lines (69 sloc)  2.55 KB
 #
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: kiaarakorn
+name: kiratikorn
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://scontent.fbkk5-4.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/15589846_1295789927154076_6492719512786400003_n.jpg?oh=9db80fe13a782e0bf949681e604f1df2&oe=5A50C31D
+avatar: https://scontent.fbkk5-1.fna.fbcdn.net/v/t1.0-1/c0.0.160.160/p160x160/15589846_1295789927154076_6492719512786400003_n.jpg?oh=9db80fe13a782e0bf949681e604f1df2&oe=5A50C31D
 
 #
 # Flags below are optional
@@ -103,15 +83,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-© 2017 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
