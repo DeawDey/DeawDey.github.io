@@ -1,7 +1,7 @@
 ---
-layout:page
-title:My resume
-permalink:/resume/
+layout: page
+title: My resume
+permalink: /resume/
 ---
 Name:keeratikorn
 #Education
